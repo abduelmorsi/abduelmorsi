@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Elmorsi</h1>
 <h3 align="center">Control and Automation Engineering Student | Cybersecurity Enthusiast | Web Developer</h3>
 
-- 🌱 I’m currently learning **Frontend Development**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
