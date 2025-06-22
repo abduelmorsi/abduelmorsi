@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduelmorsi&label=Profile%20views&color=0e75b6&style=flat" alt="abduelmorsi" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
