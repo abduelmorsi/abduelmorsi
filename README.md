@@ -2,6 +2,7 @@
 <h3 align="center">Control and Automation Engineering Student | Cybersecurity Enthusiast | Web Developer</h3>
 
 - 🌱 I’m currently learning **React**
+- Check out my [website](https://abduelmorsi.pages.dev/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abduelmorsi&label=Profile%20views&color=0e75b6&style=flat" alt="abduelmorsi" /> </p>
 
