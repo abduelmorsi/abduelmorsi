@@ -1,50 +1,62 @@
-<h1 align="center">Hi 👋, I'm Abdulrahman Elmorsi</h1>
-<h3 align="center">Control and Automation Engineering Student | Cybersecurity Enthusiast | Web Developer</h3>
-
-- 🌱 I’m currently learning **React**
-- Check out my [website](https://abduelmorsi.pages.dev/)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abduelmorsi&label=Profile%20views&color=0e75b6&style=flat" alt="abduelmorsi" /> </p>
+<h1 align="center">Hi 👋, I'm Abdelrahman Elmorsi</h1>
+<h3 align="center">Control & Automation Engineer | ICS Security Researcher | Full-Stack Developer</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/abduelmorsi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdelrahman.elmorsi.20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://abduelmorsi.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2ea44f?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+</p>
 
+---
+
+### 🔭 **What I'm Working On**
+- **ICS Anomaly Detection System:** Developing a graduation project that utilizes Digital Twins to detect cyber threats in industrial environments.
+- **Barrier-Free Accessibility:** Creating a real-time sign language interpreter using OpenAI Whisper and WebSockets (TEKNOFEST Finalist).
+
+### 🛠 **Technical Arsenal**
+
+#### **Industrial Automation & Hardware**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="30" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Omron_PLC-005EB8?style=flat-square&logo=omron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phoenix_Contact-008080?style=flat-square&logo=phoenixcontact&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED7100?style=flat-square&logo=mathworks&logoColor=white" />
 </div>
 
-###
-
-<h3 align="left">Connect with me:</h3>
+#### **Web Development & Cloud**
 <div align="left">
-  <a href="mailto:abdelrahman.elmorsi.20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abdelrahman-elmorsi-29885b2b4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 </div>
 
-###
+#### **Cybersecurity & Tools**
+<div align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-A7B8C4?style=flat-square&logo=metasploit&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</div>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=abduelmorsi&label=Profile%20views&color=0e75b6&style=flat" alt="abduelmorsi" /> 
+</p>
+
+---
 
 <p><a href="https://coff.ee/abduelmorsi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="coff.ee/abduelmorsi" /></a></p><br><br>
