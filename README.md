@@ -18,7 +18,7 @@
 
 ### 🔭 **What I'm Working On**
 - **ICS Anomaly Detection System:** Developing a graduation project that utilizes Digital Twins to detect cyber threats in industrial environments.
-- **Barrier-Free Accessibility:** Creating a real-time sign language interpreter using OpenAI Whisper and WebSockets (TEKNOFEST Finalist).
+- **Barrier-Free Accessibility:** Creating a real-time speech-to-sign language animator (TEKNOFEST Finalist).
 
 ### 🛠 **Technical Arsenal**
 
