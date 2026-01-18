@@ -9,7 +9,7 @@
   <a href="mailto:abdelrahman.elmorsi.20@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://abduelmorsi.pages.dev/">
+  <a href="https://abduelmorsi.com.tr/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2ea44f?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
 </p>
