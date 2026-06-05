@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Elmorsi</h1>
-<h3 align="center">Control & Automation Engineer | ICS Security Researcher | Full-Stack Developer</h3>
+<h3 align="center">Control & Automation Engineer | Tech Lead @ ManteeQ | ICS Security Researcher</h3>
 
 <p align="center">
   <i>Bridging the gap between complex hardware and modern software. I build scalable web applications, AI integrations, and secure industrial systems.</i>
@@ -20,13 +20,16 @@
 ---
 
 ### 🚀 **Featured Projects**
-- Campa AI — A university-focused AI assistant built with Next.js 15, React 19, and the OpenAI Assistants API featuring real-time document-grounded answers via File Search.
+- [**ManteeQ**](https://manteeq.com.tr) — Co-Founder and Technical Lead of an EdTech startup, driving the technical vision and architectural development to deliver scalable educational technology solutions.
+- [**Quran Shortly**](http://quranshortly.abduelmorsi.com.tr/) — A high-performance, client-side browser video rendering engine built natively using React and the Canvas API. [(Source Code)](https://github.com/abduelmorsi/quran_shortly)
+- [**FitSense AI**](https://github.com/abduelmorsi/nighquest-fitsense-ai) — An AI-driven fitness and biomechanics analysis tool (Awarded 2nd Place at the MathWorks Hackathon).
+- **Campa AI** — A university-focused AI assistant built with Next.js 15, React 19, and the OpenAI Assistants API featuring real-time document-grounded answers via File Search.
 - [**YTÜ International Students Platform**](https://uokytu.com.tr/) — A high-performance, SEO-optimized community platform built with Astro and Decap CMS that serves 450+ members.
-- [**Cloudflare Serverless Ecosystem**](https://github.com/abduelmorsi/cf-workers-telebot) — Low-latency serverless architecture, including a dynamic Telegram bot and custom link shortener, running entirely on the edge using Cloudflare Workers.
 
 ### 🔭 **What I'm Working On**
-- **ICS Anomaly Detection System:** Developing a graduation project that utilizes Digital Twins to detect cyber threats in industrial environments.
-- **Barrier-Free Accessibility:** Architecting a real-time, browser-based pipeline translating live spoken audio into 3D Sign Language animations using WebSockets and OpenAI Whisper (TEKNOFEST 2025 Finalist).
+- **ICS Anomaly Detection System:** Developing a graduation project that utilizes Digital Twins and a microservices architecture to detect cyber threats in industrial operational technology (OT) environments.
+- **Bio-Mimetic Robotic Arm:** Engineering a 5-DOF robotic arm integrating EMG signal classification and inverse kinematics for precise biomimetic control.
+- **Barrier-Free Accessibility:** Architecting a real-time, browser-based pipeline translating live spoken audio into 3D Sign Language animations using WebSockets and OpenAI Whisper (TEKNOFEST Finalist).
 - **PardusGuard:** Developing an open-source system hardening and security assessment tool for Pardus Linux using Python and GTK4.
 
 ### 🛠 **Technical Arsenal**
