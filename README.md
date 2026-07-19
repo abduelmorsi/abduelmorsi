@@ -76,8 +76,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abduelmorsi&show_icons=true&theme=default&hide_border=true" alt="Abdelrahman's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abduelmorsi&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=abduelmorsi&show_icons=true&theme=default&hide_border=true" alt="Abdelrahman's GitHub stats" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abduelmorsi&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abduelmorsi&label=Profile%20views&color=0e75b6&style=flat" alt="abduelmorsi" />
